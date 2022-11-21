@@ -1,4 +1,4 @@
-# ✨  Project name ✨
+# ✨  Preventive Staters ✨
 
 This is a web application created for an Indian health-related website.
 
